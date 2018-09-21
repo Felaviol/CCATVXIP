@@ -1,0 +1,116 @@
+#EXTM3U
+#EXTINF:0, group-title="Indonesia" - NET HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:0,TRANS TV
+https://stream-02.sg1.dailymotion.com/dm/3/x5b99vx/live-1.m3u8
+#EXTINF:0,TRANSTV
+http://210.210.155.35/session/687d0a28-b723-11e8-a6e4-b82a72d63267/qwr9ew/s/s05/01.m3u8
+#EXTINF:0,TRANSTV
+http://id1.indostreamingtv.com/live/tv6/index.m3u8
+#EXTINF:0,SCTV
+http://210.210.155.35/session/1dee2d1a-b94a-11e8-90c7-c81f66f89318/qwr9ew/s/s03/02.m3u8
+http://118.97.167.19/jhos/sctv_3/1536992628/playlist.m3u8?stime=20180915130000&etime=20180915140000&encoded=0702f16b1ff463de2c57a
+#EXTINF:0,SCTV
+http://id4.indostreamingtv.com/live/tv2/index.m3u8
+#EXTINF:0,INDOSIAR
+http://210.210.155.35/session/8f4a368e-b94a-11e8-8e6f-c81f66f89318/qwr9ew/s/s04/02.m3u8
+#EXTINF:0,INDOSIAR
+http://id1.indostreamingtv.com/live/tv11/index.m3u8
+#EXTINF:0,INDOSIAR
+http://id1.indostreamingtv.com/live/tv11/index.m3u8
+#EXTINF:0, group-title="Indonesia" - GTV
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
+#EXTINF:0, group-title="Indonesia" - MNCTV
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
+#EXTINF:0, group-title="Indonesia" - RCTI
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
+https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/mnctv2_all/skrz1j8exe/mnctv2_576p/chunks.m3u8?nimblesessionid=150100587&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNi8yMDE4IDI6NDM6MzIgUE0maGFzaF92YWx1ZT1zSWVjdWs4Rmw1QytWUXFSZmlCU0d3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzU1Mjc3N3wxMjUuMTY1LjMuMTUy
+#EXTINF:0,TRANS7
+http://id2.indostreamingtv.com/live/tv77/index.m3u8
+#EXTINF:0,TRANS7
+http://210.210.155.35/session/aa57f192-b723-11e8-8904-b82a72d63267/qwr9ew/s/s06/02.m3u8
+#EXTINF:0,TRANS 7
+http://id2.indostreamingtv.com/live/tv77/index.m3u8
+#EXTINF:0, group-title="Indonesia" - TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+#EXTINF:0, group-title="Indonesia" - CNN
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:0,METRO TV
+http://210.210.155.35/session/7c30f4b4-b6ef-11e8-b712-b82a72d63267/qwr9ew/s/s49/01.m3u8
+#EXTINF:0,KOMPAS TV
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1085000.m3u8?stime=20180915060009&etime=20180915100009&encoded=02e7631b0637f6792d4eb
+#EXTINF:0, KOMPAS TV
+https://stream-01.sg1.dailymotion.com/dm/3/x6pz4sa/live-3.m3u8
+#EXTINF:0,METRO TV
+http://210.210.155.35/session/7c30f4b4-b6ef-11e8-b712-b82a72d63267/qwr9ew/s/s49/01.m3u8
+#EXTINF:0,METRO TV
+http://210.210.155.35/session/7c30f4b4-b6ef-11e8-b712-b82a72d63267/qwr9ew/s/s49/01.m3u8
+#EXTINF:0, group-title="Indonesia" - METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:0,TVONE
+https://stream-07.sg1.dailymotion.com/dm/3/x619221/live-3.m3u8
+#EXTINF:0,TVONE
+http://210.210.155.35/session/2b9ec75a-b5a6-11e8-a850-b82a72d63267/qwr9ew/s/s02/01.m3u8
+#EXTINF:0,TVONE
+https://dmlive.vo.llnwd.net/dm/3/x619221/live-3.m3u8
+#EXTINF:0,TVONE
+http://210.210.155.35/session/2b9ec75a-b5a6-11e8-a850-b82a72d63267/qwr9ew/s/s02/01.m3u8
+#EXTINF:0,TVONE
+http://210.210.155.35/session/373eeb70-b723-11e8-bf3b-b82a72d63267/qwr9ew/s/s02/02.m3u8
+#EXTINF:0,TVONE
+http://210.210.155.35/session/ad20fbe6-b6ef-11e8-8197-b82a72d63267/qwr9ew/s/s02/01.m3u8
+#EXTINF:0,RTV
+https://cdn-livetv2.metube.id/hls/rtv_480/index.m3u8
+#EXTINF:0,RTV
+http://210.210.155.35/session/c54e0ce2-b724-11e8-ac17-b82a72d63267/qwr9ew/s/s12/02.m3u8
+#EXTINF:0,RTV
+http://210.210.155.35/session/c54e0ce2-b724-11e8-ac17-b82a72d63267/qwr9ew/s/s12/01.m3u8
+#EXTINF:0, group-title="Indonesia" - RTV
+http://rr2.dens.tv/s/s12/index1.m3u8
+#EXTINF:0,INEWSTV
+https://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8
+#EXTINF:0,TVRI
+http://118.97.167.19/jhos/tvri/1536993051/playlist.m3u8?stime=20180915130000&etime=20180915140000&encoded=0042d15c56654dab6b154
+#EXTINF:0,TVRI
+http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/01.m3u8
+#EXTINF:0,TVRI SPORT
+http://210.210.155.35/session/5e0f39d4-b724-11e8-9a78-b82a72d63267/qwr9ew/s/s48/02.m3u8
+http://210.210.155.35/session/5e0f39d4-b724-11e8-9a78-b82a72d63267/qwr9ew/s/s48/01.m3u8
+#EXTINF:0, group-title="Indonesia" - RCTV
+http://122.248.32.234:1935/ch9/myStream/playlist.m3u8
+#EXTINF:0,INTV
+http://210.210.155.35/session/05f56f42-b725-11e8-bf09-b82a72d63267/qwr9ew/s/s46/02.m3u8
+#EXTINF:0,INTV
+http://210.210.155.35/session/05f56f42-b725-11e8-bf09-b82a72d63267/qwr9ew/s/s46/01.m3u8
+#EXTINF:0,DAAI TV
+http://210.210.155.35/session/4ad0585c-b725-11e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8
+#EXTINF:0,ALJAZERA
+http://210.210.155.35/session/a786cb3a-b725-11e8-b712-b82a72d63267/qwr9ew/s/s16/01.m3u8
+#EXTINF:0,DAVINCI KIDS
+http://210.210.155.35/session/08035454-b99e-11e8-916f-b82a72d63267/uq2663/h/h01/20180829T012847-02-23517941.ts
+#EXTINF:0,MY KIDS
+http://210.210.155.35/session/5dba0820-b9a3-11e8-a850-b82a72d63267/uq2663/s/s30/S1/mnf_00052181.ts
+#EXTINF:0,ANIPLUS
+http://210.210.155.35/session/9662a9fc-b949-11e8-a850-b82a72d63267/uq2663/h/h02/20180826T233614-02-23508874.ts
+#EXTINF:0,BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1157117276_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
+#EXTINF:0,TONAMI
+https://lhr-2.firstonetv.net:4434/hls/656c60a1d6ce2499ce88c44ab4451208/1537027054/7b226e6f7473223a66616c73657d/687474703a2f2f6e63646e2d73722e6164616d2e7366722e66722f6970686f6e652f746f6f6e616d695f323030303030302f746f6f6e616d692e6d337538.m3u8
+#EXTINF:0,NAT GEO WILD
+http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklist_w177687450_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTlIQnp4TmV1VktDRjl0U2c4RUpCRFFvdUpyaDRNeUhaam1rTUpHZHE4VWg0QVBBRmQ5LTZ5bEpxVGgwM3BvcGw=.m3u8
+#EXTINF:0,ASTRO AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_03.m3u8
+#EXTINF:0,AD SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0,ALL SPORT
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w854025413.m3u8
+#EXTINF:0,A SPORT
+http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+#EXTINF:0,ZEEBIOSKOP
+http://210.210.155.35/session/417aa26e-bbba-11e8-aa50-c81f66f89318/qwr9ew/s/s32/20180918T060006-02-15717297.ts
+#EXTINF:0,THRILL
+http://210.210.155.35/session/bbd4cee0-bbba-11e8-a5d9-c81f66f89318/qwr9ew/s/s34/20180330T031012-02-15717331.ts
+#EXTINF:0,CELESTIAL MOVIE
+http://210.210.155.35/session/34a64c90-bbbb-11e8-a5d9-c81f66f89318/qwr9ew/s/s33/20180830T110618-02-15717365.ts
+#EXTINF:0,ANIPLUS
+http://210.210.155.35/session/9c9c25e4-bbbc-11e8-810e-c81f66f89318/uq2663/h/h02/20180919T022442-02-23576199.ts
