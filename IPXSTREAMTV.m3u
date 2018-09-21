@@ -1,17 +1,12 @@
 #EXTM3U
 #EXTINF:0, group-title="Indonesia" - NET HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-#EXTINF:0,TRANS TV
-https://stream-02.sg1.dailymotion.com/dm/3/x5b99vx/live-1.m3u8
 #EXTINF:0,TRANSTV
 http://210.210.155.35/session/687d0a28-b723-11e8-a6e4-b82a72d63267/qwr9ew/s/s05/01.m3u8
-#EXTINF:0,TRANSTV
-http://id1.indostreamingtv.com/live/tv6/index.m3u8
 #EXTINF:0,SCTV
 http://210.210.155.35/session/1dee2d1a-b94a-11e8-90c7-c81f66f89318/qwr9ew/s/s03/02.m3u8
-http://118.97.167.19/jhos/sctv_3/1536992628/playlist.m3u8?stime=20180915130000&etime=20180915140000&encoded=0702f16b1ff463de2c57a
 #EXTINF:0,SCTV
-http://id4.indostreamingtv.com/live/tv2/index.m3u8
+http://118.97.167.19/jhos/sctv_3/1536992628/playlist.m3u8?stime=20180915130000&etime=20180915140000&encoded=0702f16b1ff463de2c57a
 #EXTINF:0,INDOSIAR
 http://210.210.155.35/session/8f4a368e-b94a-11e8-8e6f-c81f66f89318/qwr9ew/s/s04/02.m3u8
 #EXTINF:0,INDOSIAR
@@ -24,31 +19,20 @@ http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
 #EXTINF:0, group-title="Indonesia" - RCTI
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
-https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/mnctv2_all/skrz1j8exe/mnctv2_576p/chunks.m3u8?nimblesessionid=150100587&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNi8yMDE4IDI6NDM6MzIgUE0maGFzaF92YWx1ZT1zSWVjdWs4Rmw1QytWUXFSZmlCU0d3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzU1Mjc3N3wxMjUuMTY1LjMuMTUy
-#EXTINF:0,TRANS7
-http://id2.indostreamingtv.com/live/tv77/index.m3u8
 #EXTINF:0,TRANS7
 http://210.210.155.35/session/aa57f192-b723-11e8-8904-b82a72d63267/qwr9ew/s/s06/02.m3u8
 #EXTINF:0,TRANS 7
 http://id2.indostreamingtv.com/live/tv77/index.m3u8
 #EXTINF:0, group-title="Indonesia" - TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
-#EXTINF:0, group-title="Indonesia" - CNN
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:0,METRO TV
 http://210.210.155.35/session/7c30f4b4-b6ef-11e8-b712-b82a72d63267/qwr9ew/s/s49/01.m3u8
-#EXTINF:0,KOMPAS TV
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1085000.m3u8?stime=20180915060009&etime=20180915100009&encoded=02e7631b0637f6792d4eb
-#EXTINF:0, KOMPAS TV
-https://stream-01.sg1.dailymotion.com/dm/3/x6pz4sa/live-3.m3u8
 #EXTINF:0,METRO TV
 http://210.210.155.35/session/7c30f4b4-b6ef-11e8-b712-b82a72d63267/qwr9ew/s/s49/01.m3u8
 #EXTINF:0,METRO TV
 http://210.210.155.35/session/7c30f4b4-b6ef-11e8-b712-b82a72d63267/qwr9ew/s/s49/01.m3u8
 #EXTINF:0, group-title="Indonesia" - METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:0,TVONE
-https://stream-07.sg1.dailymotion.com/dm/3/x619221/live-3.m3u8
 #EXTINF:0,TVONE
 http://210.210.155.35/session/2b9ec75a-b5a6-11e8-a850-b82a72d63267/qwr9ew/s/s02/01.m3u8
 #EXTINF:0,TVONE
@@ -60,15 +44,9 @@ http://210.210.155.35/session/373eeb70-b723-11e8-bf3b-b82a72d63267/qwr9ew/s/s02/
 #EXTINF:0,TVONE
 http://210.210.155.35/session/ad20fbe6-b6ef-11e8-8197-b82a72d63267/qwr9ew/s/s02/01.m3u8
 #EXTINF:0,RTV
-https://cdn-livetv2.metube.id/hls/rtv_480/index.m3u8
-#EXTINF:0,RTV
 http://210.210.155.35/session/c54e0ce2-b724-11e8-ac17-b82a72d63267/qwr9ew/s/s12/02.m3u8
 #EXTINF:0,RTV
 http://210.210.155.35/session/c54e0ce2-b724-11e8-ac17-b82a72d63267/qwr9ew/s/s12/01.m3u8
-#EXTINF:0, group-title="Indonesia" - RTV
-http://rr2.dens.tv/s/s12/index1.m3u8
-#EXTINF:0,INEWSTV
-https://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8
 #EXTINF:0,TVRI
 http://118.97.167.19/jhos/tvri/1536993051/playlist.m3u8?stime=20180915130000&etime=20180915140000&encoded=0042d15c56654dab6b154
 #EXTINF:0,TVRI
