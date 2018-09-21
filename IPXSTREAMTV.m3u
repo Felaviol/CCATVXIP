@@ -92,3 +92,44 @@ http://210.210.155.35/session/bbd4cee0-bbba-11e8-a5d9-c81f66f89318/qwr9ew/s/s34/
 http://210.210.155.35/session/34a64c90-bbbb-11e8-a5d9-c81f66f89318/qwr9ew/s/s33/20180830T110618-02-15717365.ts
 #EXTINF:0,ANIPLUS
 http://210.210.155.35/session/9c9c25e4-bbbc-11e8-810e-c81f66f89318/uq2663/h/h02/20180919T022442-02-23576199.ts
+#EXTM3U
+#EXTINF:-1,HBO HD
+http://103.89.176.45:8278/Hbohd/playlist.m3u8?tid=16407224&tsum=dd9712c7faad0225ce930d85474c1312
+#EXTINF:-1,HBO HITS
+http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=14723630&tsum=2783218e250457069b9c398ef5c83449
+#EXTINF:-1,BLUE ANT EXTREME
+http://5.79.87.234:8278/Fxhd/playlist.m3u8?tid=13526406&tsum=3f7c90feb8df40b2a8c52a1f8dfe5ae8
+#EXTINF:-1,FOX HD
+http://50.7.92.2:8278/Foxhd/playlist.m3u8?tid=16457994&tsum=0e4af7af19e98639d7ac1633fc16ad27
+#EXTINF:-1,FOX ACTION MOVIES HD
+http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=17693356&tsum=8f8a10874debb3950914fea445444913
+#EXTINF:-1,FOX MOVIES PREMIUM HD
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=12236059&tsum=b95a3299294406cf934d76db91c27dc9
+#EXTINF:-1,AXN HD
+http://5.79.87.234:8278/Axn/playlist.m3u8?tid=16761825&tsum=130ccb6cde922e17bb21eb9c5719b3af
+#EXTINF:-1,CINEMAX HD
+http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=15898010&tsum=9e594a5782ca566ec2429f425f6cf420
+#EXTINF:-1,HISTORY HD
+http://5.79.87.234:8278/Historyhd/playlist.m3u8?tid=12023408&tsum=2e117f5a9810a4e2ae88e44baa7784af
+#EXTINF:-1,CRIME INVESTIGATION
+http://5.79.87.234:8278/CI/playlist.m3u8?tid=11530613&tsum=8fafcdc3bf5af1857694b0a878da6d6d
+#EXTINF:-1,DISCOVERY HD
+http://5.79.87.234:8278/Discovery/playlist.m3u8?tid=18167575&tsum=25f34322fdcb98ae7412ee250486bce7
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://5.79.87.234:8278/Natgeo/playlist.m3u8?tid=18834888&tsum=ee19cd1a4b657ddd68839b720a06e909
+#EXTINF:-1,NAT GEO PEOPLE
+http://5.79.87.234:8278/Natgeopeople/playlist.m3u8?tid=10642561&tsum=8c64ee4fae4e859d13f2b8b69c844572
+#EXTINF:-1,ANIMAL PLANET HD
+http://5.79.87.234:8278/Animalplanet/playlist.m3u8?tid=15188124&tsum=a34e8d842af2687d66be637448ed7426
+#EXTINF:-1,Cartoon Network
+http://5.79.87.234:8278/Cn/playlist.m3u8?tid=14927760&tsum=db613f177d60555202c620a4e6d2090a
+#EXTINF:-1,Nickelodeon
+http://5.79.87.234:8278/Nickelodeon/playlist.m3u8?tid=16707245&tsum=b1426229546df4aac07270c14b908be4
+#EXTINF:-1,Disney channel
+http://5.79.87.234:8278/Disneyxd/playlist.m3u8?tid=13338742&tsum=9da750c913543d9e476855ce62969e16
+#EXTINF:-1,Animax
+http://5.79.87.234:8278/Animaxhd/playlist.m3u8?tid=10412645&tsum=dbcfd3a79fc073ddeef7c4b384f3e63b
+#EXTINF:-1,TLC
+http://5.79.87.234:8278/Tlc/playlist.m3u8?tid=11557848&tsum=7ef62c41e191079b392ac473283475e0
+#EXTINF:-1,AFC
+http://5.79.87.234:8278/Afc/playlist.m3u8?tid=18804108&tsum=1026b86abe61d4c7b8fcc8d64b94b16d
