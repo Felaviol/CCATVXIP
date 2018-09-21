@@ -23,7 +23,7 @@ http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
 http://210.210.155.35/session/aa57f192-b723-11e8-8904-b82a72d63267/qwr9ew/s/s06/02.m3u8
 #EXTINF:0,TRANS 7
 http://id2.indostreamingtv.com/live/tv77/index.m3u8
-#EXTINF:0, group-title="Indonesia" - TVRI
+#EXTINF:0,TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 #EXTINF:0,METRO TV
 http://210.210.155.35/session/7c30f4b4-b6ef-11e8-b712-b82a72d63267/qwr9ew/s/s49/01.m3u8
