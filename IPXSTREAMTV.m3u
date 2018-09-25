@@ -1,67 +1,30 @@
 #EXTM3U
-#EXTINF:0,NET HD
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-#EXTINF:0,TRANSTV
-http://210.210.155.35/session/687d0a28-b723-11e8-a6e4-b82a72d63267/qwr9ew/s/s05/01.m3u8
-#EXTINF:0,SCTV
-http://210.210.155.35/session/1dee2d1a-b94a-11e8-90c7-c81f66f89318/qwr9ew/s/s03/02.m3u8
-#EXTINF:0,SCTV
-http://118.97.167.19/jhos/sctv_3/1536992628/playlist.m3u8?stime=20180915130000&etime=20180915140000&encoded=0702f16b1ff463de2c57a
-#EXTINF:0,INDOSIAR
-http://210.210.155.35/session/8f4a368e-b94a-11e8-8e6f-c81f66f89318/qwr9ew/s/s04/02.m3u8
-#EXTINF:0,INDOSIAR
-http://id1.indostreamingtv.com/live/tv11/index.m3u8
-#EXTINF:0,INDOSIAR
-http://id1.indostreamingtv.com/live/tv11/index.m3u8
-#EXTINF:0,GTV
-http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
-#EXTINF:0,MNCTV
-http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
-#EXTINF:0,RCTI
-http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
-#EXTINF:0,TRANS7
-http://210.210.155.35/session/aa57f192-b723-11e8-8904-b82a72d63267/qwr9ew/s/s06/02.m3u8
-#EXTINF:0,TRANS 7
-http://id2.indostreamingtv.com/live/tv77/index.m3u8
-#EXTINF:0,TVRI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
-#EXTINF:0,METRO TV
-http://210.210.155.35/session/7c30f4b4-b6ef-11e8-b712-b82a72d63267/qwr9ew/s/s49/01.m3u8
-#EXTINF:0,METRO TV
-http://210.210.155.35/session/7c30f4b4-b6ef-11e8-b712-b82a72d63267/qwr9ew/s/s49/01.m3u8
-#EXTINF:0,METRO TV
-http://210.210.155.35/session/7c30f4b4-b6ef-11e8-b712-b82a72d63267/qwr9ew/s/s49/01.m3u8
-#EXTINF:0,METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:0,TVONE
-http://210.210.155.35/session/2b9ec75a-b5a6-11e8-a850-b82a72d63267/qwr9ew/s/s02/01.m3u8
-#EXTINF:0,TVONE
-https://dmlive.vo.llnwd.net/dm/3/x619221/live-3.m3u8
-#EXTINF:0,TVONE
-http://210.210.155.35/session/2b9ec75a-b5a6-11e8-a850-b82a72d63267/qwr9ew/s/s02/01.m3u8
-#EXTINF:0,TVONE
-http://210.210.155.35/session/373eeb70-b723-11e8-bf3b-b82a72d63267/qwr9ew/s/s02/02.m3u8
-#EXTINF:0,TVONE
-http://210.210.155.35/session/ad20fbe6-b6ef-11e8-8197-b82a72d63267/qwr9ew/s/s02/01.m3u8
-#EXTINF:0,RTV
-http://210.210.155.35/session/c54e0ce2-b724-11e8-ac17-b82a72d63267/qwr9ew/s/s12/02.m3u8
-#EXTINF:0,RTV
-http://210.210.155.35/session/c54e0ce2-b724-11e8-ac17-b82a72d63267/qwr9ew/s/s12/01.m3u8
-#EXTINF:0,TVRI
-http://118.97.167.19/jhos/tvri/1536993051/playlist.m3u8?stime=20180915130000&etime=20180915140000&encoded=0042d15c56654dab6b154
-#EXTINF:0,TVRI
-http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/01.m3u8
-#EXTINF:0,TVRI SPORT
-http://210.210.155.35/session/5e0f39d4-b724-11e8-9a78-b82a72d63267/qwr9ew/s/s48/02.m3u8
-http://210.210.155.35/session/5e0f39d4-b724-11e8-9a78-b82a72d63267/qwr9ew/s/s48/01.m3u8
-#EXTINF:0,RCTV
-http://122.248.32.234:1935/ch9/myStream/playlist.m3u8
-#EXTINF:0,INTV
-http://210.210.155.35/session/05f56f42-b725-11e8-bf09-b82a72d63267/qwr9ew/s/s46/02.m3u8
-#EXTINF:0,INTV
-http://210.210.155.35/session/05f56f42-b725-11e8-bf09-b82a72d63267/qwr9ew/s/s46/01.m3u8
-#EXTINF:0,DAAI TV
-http://210.210.155.35/session/4ad0585c-b725-11e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1, tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="TV NASIONAL", INDOSIAR
+http://iptv.pnormalindo.tk/live/indosiar
+#EXTINF:-1, tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="TV NASIONAL", ANTV
+http://iptv.pnormalindo.tk/live/antv
+#EXTINF:-1, tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://devanyahya.web.id/rctilogo.png" group-title="TV NASIONAL", RCTI
+http://iptv.pnormalindo.tk/live/rcti
+#EXTINF:-1, tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="http://images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0" group-title="TV NASIONAL", SCTV
+http://iptv.pnormalindo.tk/live/sctv
+#EXTINF:-1, tvg-id="NetTV.id" tvg-name="NET TV HD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="TV NASIONAL", NET.HD
+http://iptv.pnormalindo.tk/live/net
+#EXTINF:-1, tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="TV NASIONAL", TRANS TV
+http://iptv.pnormalindo.tk/live/transtv
+#EXTINF:-1, tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="TV NASIONAL", TRANS7
+http://iptv.pnormalindo.tk/live/trans7
+#EXTINF:-1, group-title="TV NASIONAL", MNCTV
+http://iptv.pnormalindo.tk/live/mnctv
+#EXTINF:-1, group-title="TV NASIONAL", GLOBAL TV
+http://iptv.pnormalindo.tk/live/global
+#EXTINF:-1, group-title="TV NASIONAL", RTV
+http://iptv.pnormalindo.tk/live/rtv
+#EXTINF:-1, group-title="TV NASIONAL", TVRI
+http://iptv.pnormalindo.tk/live/tvri
+#EXTINF:-1, group-title="TV NASIONAL", FOODIE
+http://iptv.pnormalindo.tk/live/foodie
+#EXTINF:-1, group-title="TV NASIONAL", HOME & LIVING
+http://iptv.pnormalindo.tk/live/hnl
 #EXTINF:0,ALJAZERA
 http://210.210.155.35/session/a786cb3a-b725-11e8-b712-b82a72d63267/qwr9ew/s/s16/01.m3u8
 #EXTINF:0,DAVINCI KIDS
